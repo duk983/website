@@ -181,7 +181,7 @@ body {
   width: 20%;
   background: var(--white);
   outline: var(--black);
-  color: var(--opposite);
+  color: var(--blackish);
   padding: 5px; 
   margin-left: 20px;
   border: 1px solid rgba(27, 31, 35, 0.15);
